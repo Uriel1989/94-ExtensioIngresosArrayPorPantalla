@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\ref\94-ExtensioIngresosArrayPorPantalla.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\bin\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\ref\94-ExtensioIngresosArrayPorPantalla.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.genruntimeconfig.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\94-ExtensioIngresosArrayPorPantalla\obj\Debug\net5.0\94-ExtensioIngresosArrayPorPantalla.csproj.AssemblyReference.cache
